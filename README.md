@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muskansahu681/Muskan-DSA/tree/master/0035-search-insert-position) |
+| [0997-find-the-town-judge](https://github.com/muskansahu681/Muskan-DSA/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/muskansahu681/Muskan-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/muskansahu681/Muskan-DSA/tree/master/0997-find-the-town-judge) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/muskansahu681/Muskan-DSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
