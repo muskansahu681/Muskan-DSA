@@ -37,22 +37,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/muskansahu681/Muskan-DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/muskansahu681/Muskan-DSA/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/muskansahu681/Muskan-DSA/tree/master/0997-find-the-town-judge) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/muskansahu681/Muskan-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/muskansahu681/Muskan-DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/muskansahu681/Muskan-DSA/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/muskansahu681/Muskan-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/muskansahu681/Muskan-DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/muskansahu681/Muskan-DSA/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/muskansahu681/Muskan-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/muskansahu681/Muskan-DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/muskansahu681/Muskan-DSA/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
