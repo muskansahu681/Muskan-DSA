@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/muskansahu681/Muskan-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/muskansahu681/Muskan-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/muskansahu681/Muskan-DSA/tree/master/0070-climbing-stairs) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/muskansahu681/Muskan-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -78,8 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/muskansahu681/Muskan-DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/muskansahu681/Muskan-DSA/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/muskansahu681/Muskan-DSA/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/muskansahu681/Muskan-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
