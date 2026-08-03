@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/muskansahu681/Muskan-DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/muskansahu681/Muskan-DSA/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/muskansahu681/Muskan-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/muskansahu681/Muskan-DSA/tree/master/0200-number-of-islands) |
 | [0997-find-the-town-judge](https://github.com/muskansahu681/Muskan-DSA/tree/master/0997-find-the-town-judge) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/muskansahu681/Muskan-DSA/tree/master/0059-spiral-matrix-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/muskansahu681/Muskan-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/muskansahu681/Muskan-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/muskansahu681/Muskan-DSA/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
