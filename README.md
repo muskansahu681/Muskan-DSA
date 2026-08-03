@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/muskansahu681/Muskan-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/muskansahu681/Muskan-DSA/tree/master/0069-sqrtx) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/muskansahu681/Muskan-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/muskansahu681/Muskan-DSA/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/muskansahu681/Muskan-DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/muskansahu681/Muskan-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
