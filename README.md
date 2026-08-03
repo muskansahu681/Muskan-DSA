@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/muskansahu681/Muskan-DSA/tree/master/0143-reorder-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/muskansahu681/Muskan-DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/muskansahu681/Muskan-DSA/tree/master/0015-3sum) |
+| [0143-reorder-list](https://github.com/muskansahu681/Muskan-DSA/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muskansahu681/Muskan-DSA/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/muskansahu681/Muskan-DSA/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/muskansahu681/Muskan-DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
